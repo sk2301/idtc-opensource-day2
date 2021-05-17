@@ -2053,11 +2053,10 @@ header .header-logo a {
 }
 
 .about-profile p {
-	font-size: 1rem;
+	font-size: 20px;
 	line-height: 25px;
 }
 
-/*  */
 
 .about-profile .about-profile-bg {
 	display: none;
